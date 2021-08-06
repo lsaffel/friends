@@ -44,7 +44,7 @@ test:
 
 
 #-----------------------------------------------
-# I assume this section is correct ?? friends replaces myapp
+# I assume this section is correct. friends replaces myapp
 production:
   <<: *default
   database: friends_production
